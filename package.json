@@ -1,0 +1,24 @@
+{
+  "name": "pizza-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrostyyOPP/pizzashop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://FrostyyOPP.github.io/pizzashop",
+  "bugs": {
+    "url": "https://github.com/FrostyyOPP/pizzashop/issues"
+  },
+  "homepage": "https://github.com/FrostyyOPP/pizzashop#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
